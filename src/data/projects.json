@@ -11,6 +11,6 @@
         "imageSrc" : "projects/project.png",
         "description" : "portfolio is a basic website that showcases your skills, projects, and contact information.",
         "skills" : ["React", "JavaScript"],
-        "source" : "https://www.github.com"
+        "source" : "https://github.com/kishore-rk/portfolio"
     }
 ]
