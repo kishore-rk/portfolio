@@ -1,0 +1,16 @@
+[
+    {
+        "title" :"Library Management System",
+        "imageSrc" : "projects/project.png",
+        "description" : "A LMS  is  a  software built to handle the primary housekeeping functions of a library. ",
+        "skills" : ["Java", "MySQL"],
+        "source" : "https://github.com/kishore-rk/Library_Management_System"
+    },
+    {
+        "title" :"portfolio",
+        "imageSrc" : "projects/project.png",
+        "description" : "portfolio is a basic website that showcases your skills, projects, and contact information.",
+        "skills" : ["React", "JavaScript"],
+        "source" : "https://www.github.com"
+    }
+]
